@@ -1,0 +1,77 @@
+ptoshop part 1
+00:36 Create a new document
+03:28 Layers
+08:18 Pan & Zoom
+10:23 Move Tool
+11:16 Rectangular Marquee Tool
+14:01 Eliptical Marquee Tool
+15:40 Single Row Marquee Tool
+17:51 Lasso Tool
+18:35 Polygonal Lasso Tool
+19:15 Magnetic Lasso Tool
+20:18 Quick Selection Tool
+21:25 Magic Wand Tool
+23:54 Crop Tool
+25:12 Perspective Crop Tool
+25:49 Slice Tool
+28:47 Eyedropper Tool
+
+PART 2
+00:38 Spot Healing Brush Tool
+01:47 Healing Brush Tool
+03:24 Patch Tool
+04:35 Content Aware Move Tool
+05:10 Red-Eye Tool
+06:12 Brush Tool
+08:04 Lock Transparent Pixels
+10:30 Pencil Tool
+10:56 Color Replacement Tool
+13:44 Mixer Brush Tool
+17:10 Clone Stamp Tool
+17:44 Pattern Stamp Tool
+18:47 History Brush Tool
+19:47 Art History Brush Tool
+21:46 Eraser Tool
+22:25 Background Eraser Tool
+24:10 Magic Eraser Tool
+25:02 Gradient Tool
+26:50 Paint Bucket Tool
+
+PART 3
+00:34 Blur Tool (Basic)
+01:28 Blur Tool (Depth of Field)
+02:32 Sharpen Tool
+04:03 Smudge Tool
+05:15 Dodge Tool
+07:54 Burn Tool
+08:55 Sponge Tool
+10:05 Pen Tool (Example 1)
+13:58 Pen Tool (Example 2)
+15:30 Freeform Pen Tool
+16:56 Curvature Pen Tool
+17:36 Add Anchor Point Tool
+17:51 Delete Anchor Point Tool
+18:37 Convert Point Tool
+
+PART 4
+00:44 Horizontal Type Tool
+08:24 Vertical Type Tool
+09:50 Vertical Type Mask Tool
+11:01 Horizontal Type Mask Tool
+12:32 Path Selection Tool
+13:10 Direct Selection Tool
+13:38 Rectangle Tool
+16:36 Rounded Rectangle Tool
+17:45 Ellipse Tool
+18:31 Polygon Tool
+20:02 Line Tool
+20:47 Custom Shape Tool
+
+PART 5
+VARNISHING POINT
+PUPPET WARP
+DATASET
+
+PART 6
+3D
+ANIMASI VIDEO
